@@ -1,0 +1,12 @@
+{
+    "autoload":
+    {
+        "psr-4":
+        {
+            "SGM\\": ""
+        }
+    },
+    "require": {
+        "sendgrid/sendgrid": "^6.2"
+    }
+}
